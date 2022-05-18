@@ -1,5 +1,5 @@
 ## react-native-carousel-loop
-
+Fork of https://github.com/sannajammeh/react-native-carousel-loop with bug fixes.
 Typescript implementation of https://github.com/phil-r/react-native-looped-carousel with small fixes.
 
 ## Example usage

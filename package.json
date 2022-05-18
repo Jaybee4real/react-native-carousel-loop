@@ -1,6 +1,6 @@
 {
-  "name": "react-native-carousel-loop",
-  "version": "1.0.8",
+  "name": "@jaybee4real/react-native-carousel-loop",
+  "version": "1.0.9",
   "description": "A typescript based infinite carousel for react-native",
   "main": "lib/index.js",
   "types": "lib",
@@ -41,5 +41,8 @@
   },
   "dependencies": {
     "lodash.isequal": "^4.5.0"
+  },
+  "directories": {
+    "lib": "lib"
   }
 }
